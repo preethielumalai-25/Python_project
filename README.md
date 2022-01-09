@@ -8,7 +8,7 @@ OBJECTIVE :
     
 DATASET :
 
-    The dataset is being generated with the help of web-scraping technique. The data contains 12 attributes as brand,model,color,ram,rom,battery,camera,ratings,star,reviews,price and offrate.
+    The dataset is being generated with the help of web-scraping technique.
     
 EDA :
     
